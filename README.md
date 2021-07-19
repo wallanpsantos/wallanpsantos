@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="30%" align="right" alt="Java" src="https://github.com/wallanpsantos/wallanpsantos/blob/output/iron_man.gif" />
+<img width="15%" align="right" alt="Java" src="https://github.com/wallanpsantos/wallanpsantos/blob/output/iron_man.gif" />
 
 ### 👨🏻‍💻 &nbsp;About Me
 
