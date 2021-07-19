@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 
 I'm a Back-end Developer (Java / Spring Boot) ☕ | Front-end 🖥 | Computer Science 💻 | IoT Enthusiast 🤖 | Player 🎮 ... 🍺٩ (˘◡˘)
 
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Java" src="https://github.com/wallanpsantos/wallanpsantos/blob/output/icons8-java.gif" />
+<img width="55%" align="right" alt="Javscript" src="https://github.com/wallanpsantos/wallanpsantos/blob/icons8-javascript.gif" />
+
 ### 🛠 &nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)&nbsp;
