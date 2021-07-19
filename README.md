@@ -38,7 +38,7 @@ I'm a Back-end Developer (Java / Spring Boot) ☕ | Front-end 🖥 | Computer Sc
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 
-!.&nbsp;
+
 ### :octocat: &nbsp;Github Stats
 
 <div>
