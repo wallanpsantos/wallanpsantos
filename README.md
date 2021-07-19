@@ -38,7 +38,7 @@ I'm a Back-end Developer (Java / Spring Boot) ☕ | Front-end 🖥 | Computer Sc
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 
-
+!.&nbsp;
 ### :octocat: &nbsp;Github Stats
 
 <div>
@@ -51,7 +51,5 @@ I'm a Back-end Developer (Java / Spring Boot) ☕ | Front-end 🖥 | Computer Sc
   
 ### 🤝🏻 &nbsp;Connect with Me
 
-  <a href="https://www.linkedin.com/in/wallanpsantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
- <a href="https://www.instagram.com/wallanpsantos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/wallanpsantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;&nbsp; <a href="https://www.instagram.com/wallanpsantos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> &nbsp;&nbsp; <a href="https://twitter.com/WallanPereira9/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%2300A7E7?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>   
    
