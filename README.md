@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-I'm a Back-end Developer (Java / Spring Boot) ☕ | Web Developer 🖥 | IoT Enthusiast 🤖 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and I like the player 🎮 ... 🍺٩ (˘◡˘)
+I'm a Back-end Developer (Java / Spring Boot) ☕ | Web Developer 🖥 | IoT Enthusiast 🤖 &nbsp;&nbsp;&nbsp;&nbsp;and I like the player 🎮 ... 🍺٩ (˘◡˘)
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="15%" align="left" alt="Java" src="https://github.com/wallanpsantos/wallanpsantos/blob/output/icons8-logo-java-coffee-cup.svg" />
