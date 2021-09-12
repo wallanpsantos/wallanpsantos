@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="30%" align="right" alt="Java" src="https://github.com/wallanpsantos/wallanpsantos/blob/output/iron_man.gif" />
+<img width="40%" align="left" alt="Java" src="https://github.com/wallanpsantos/wallanpsantos/blob/output/pixel-hacker.gif"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -26,7 +26,7 @@ I'm a Back-end Developer (Java / Spring Boot) ☕ | Web Developer 🖥 | IoT Ent
 ### 🛠 &nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 <!--
