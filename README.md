@@ -48,8 +48,8 @@ I'm a Java Backend Developer ☕ | Web Developer (React & Next.js) 🖥 | IoT En
 
 <div>
   <a href="https://github.com/wallanpsantos">
-  <img height="160em" width="420em"   align="left" src="https://github-readme-stats.vercel.app/api?username=wallanpsantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallanpsantos&&layout=compact&hide=shell&theme=dracula"/>
+  <img height="160em"  align="left" src="https://github-readme-stats.vercel.app/api?username=wallanpsantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallanpsantos&&layout=compact&hide=shell&theme=dracula"/>
 </div>
   
  ![Snake animation](https://github.com/wallanpsantos/wallanpsantos/blob/output/github-contribution-grid-snake.svg)
