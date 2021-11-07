@@ -48,8 +48,8 @@ I'm a Java Backend Developer ☕ | Web Developer (React & Next.js) 🖥 | IoT En
 
 <div>
   <a href="https://github.com/wallanpsantos">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=wallanpsantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallanpsantos&&layout=compact&hide=shell&theme=dracula"/>
+  <img height="180em"   align="left" src="https://github-readme-stats.vercel.app/api?username=wallanpsantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallanpsantos&&layout=compact&hide=shell&theme=dracula"/>
 </div>
   
  ![Snake animation](https://github.com/wallanpsantos/wallanpsantos/blob/output/github-contribution-grid-snake.svg)
@@ -58,3 +58,8 @@ I'm a Java Backend Developer ☕ | Web Developer (React & Next.js) 🖥 | IoT En
 
   <a href="https://www.linkedin.com/in/wallanpsantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;&nbsp; <a href="https://www.instagram.com/wallanpsantos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> &nbsp;&nbsp; <a href="https://twitter.com/WallanPereira9/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%2300A7E7?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>   
    
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=wallanpsantos&style=flat-square&label=Profile+Views&color=brightgreen)
+  
+</div>
