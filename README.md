@@ -34,7 +34,6 @@ I'm a Java Backend Developer ☕ | Web Developer 🖥 | IoT Enthusiast 🤖 | I 
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=ffffff)&nbsp;
 
 <!--
@@ -50,7 +49,7 @@ I'm a Java Backend Developer ☕ | Web Developer 🖥 | IoT Enthusiast 🤖 | I 
   
 ### 🤝🏻 &nbsp;Connect with Me
 
-  <a href="https://www.linkedin.com/in/wallanpsantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;&nbsp; <a href="https://www.instagram.com/wallanpsantos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> &nbsp;&nbsp; <a href="https://twitter.com/WallanpsCode/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%2300A7E7?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/wallanpsantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;&nbsp; <a href="https://twitter.com/WallanpsCode/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%2300A7E7?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>   
    
 <div align="center">
   
