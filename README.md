@@ -1,3 +1,5 @@
+ <img  width="100%" height="100vh" alt="Hackathon" src="https://github.com/wallanpsantos/wallanpsantos/blob/output/pixel-hacker.gif"/>
+
 <!-- Apresentação -->
 <div align="center">
     <h1>Hi, I'm Wallan Pereira! 👋</h1>
@@ -6,14 +8,13 @@
 
 <!-- Capa Principal -->
 <div margin-top: 20px;>
-    <img align="left" width="25%" alt="Hackathon" src="https://github.com/wallanpsantos/wallanpsantos/blob/output/pixel-hacker.gif" style="margin-right: 50px;"/>
-
+   
   <!-- Habilidades -->
-  <div width="75%" align="center">
-      <h3>:hammer_and_wrench: Languages and Tools</h3>
+  <div width="100%" align="center">
+      <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
       <p>
           <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=java,spring,maven,kafka,mongodb,mysql,postgres,kubernetes,docker,aws,js,html,css,bootstrap,react,postman,idea,pycharm,webstorm,git,github,githubactions,linux,wordpress,ps&perline=10"
+              <img src="https://skillicons.dev/icons?i=java,spring,maven,kafka,mongodb,mysql,postgres,kubernetes,docker,aws,js,html,css,bootstrap,react,postman,idea,webstorm,git,github,githubactions,linux,wordpress,ps&perline=12"
                    alt="Skills and tools"/>
           </a>
       </p>
