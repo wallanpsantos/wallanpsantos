@@ -27,24 +27,23 @@
 
 </div>
 
-<!-- Habilidades e Foto -->
-<h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
-
-<!-- Container de ícones -->
-<p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,spring,maven,kafka,mongodb,mysql,postgres,kubernetes,docker,aws,js,html,css,bootstrap,react,postman,idea,pycharm,webstorm,git,github,githubactions,linux,wordpress,ps&perline=10"
-             alt="Skills and tools"/>
-    </a>
-</p>
-
+<!-- Habilidades -->
+<div align="center">
+    <h3>:hammer_and_wrench: Languages and Tools</h3>
+    <p>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=java,spring,maven,kafka,mongodb,mysql,postgres,kubernetes,docker,aws,js,html,css,bootstrap,react,postman,idea,pycharm,webstorm,git,github,githubactions,linux,wordpress,ps&perline=10"
+                 alt="Skills and tools"/>
+        </a>
+    </p>
+</div>
 
 
 <!-- Snake commits -->
 <div>
     <p align="center">
         <a href="https://skillicons.dev">
-            <img src="https://github.com/wallanpsantos/wallanpsantos/blob/output/github-contribution-grid-snake.svg" alt="github-contribution"/>
+            <img width="100%" src="https://github.com/wallanpsantos/wallanpsantos/blob/output/github-contribution-grid-snake.svg" alt="github-contribution"/>
         </a>
     </p>
 </div>
