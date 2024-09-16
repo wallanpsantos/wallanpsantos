@@ -14,7 +14,7 @@
       <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
       <p>
           <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=java,spring,maven,kafka,mongodb,mysql,postgres,kubernetes,docker,aws,js,html,css,bootstrap,react,postman,idea,webstorm,git,github,githubactions,linux,wordpress,ps&perline=12"
+              <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,kafka,mongodb,mysql,postgres,kubernetes,docker,netlify,aws,js,html,css,bootstrap,sass,react,npm,postman,idea,webstorm,git,github,githubactions,linux,wordpress,ps&perline=10"
                    alt="Skills and tools"/>
           </a>
       </p>
