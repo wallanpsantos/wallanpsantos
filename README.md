@@ -1,4 +1,4 @@
- <img  width="100%" height="100vh" alt="Hackathon" src="https://github.com/wallanpsantos/wallanpsantos/blob/output/pixel-hacker.gif"/>
+ <img  width="100%" height="300vh" alt="Hackathon" src="https://github.com/wallanpsantos/wallanpsantos/blob/output/pixel-hacker.gif"/>
 
 <!-- Apresentação -->
 <div align="center">
