@@ -1,8 +1,11 @@
- <img  width="100%" height="300vh" alt="Hackathon" src="https://github.com/wallanpsantos/wallanpsantos/blob/output/pixel-hacker.gif"/>
+
 
 <!-- Apresentação -->
 <div align="center">
     <h1>Hi, I'm Wallan Pereira! 👋</h1>
+    <img  width="100%" height="300vh" alt="Hackathon" src="https://github.com/wallanpsantos/wallanpsantos/blob/output/pixel-hacker.gif"/>
+    <br/>
+    <br/>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=wallanpsantos.visitor-badge&left_color=%23BF4904&right_color=%2304ADBF&left_text=Hello%20Visitors"/>
 </div>
 
