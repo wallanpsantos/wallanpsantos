@@ -52,9 +52,6 @@
       <a href="https://www.linkedin.com/in/wallanpsantos/" target="_blank" style="text-decoration: none;">
           <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn">
       </a>
-      <a href="https://www.instagram.com/wallanpsantos/" target="_blank" style="text-decoration: none;">
-          <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="Instagram">
-      </a>
   </p>
 
   <h3>🧑‍💻 About Me</h3>
