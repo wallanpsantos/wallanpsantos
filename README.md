@@ -81,3 +81,20 @@
   </div>
 </div>
 
+<div align="left" >
+  <h3 align="center">☕🐾 Donation!</h3>
+  <div align="center">
+      <!-- Bitcoin -->
+      <a href="https://www.blockchain.com/btc/address/bc1q03c0e7cqvx4wnt62z86sjc35jnqravmh9l6p0t" target="_blank" style="text-decoration: none !important;">
+          <img src="https://github.com/wallanpsantos/wallanpsantos/blob/output/bitcoin-brands-solid.svg" alt="Icon Bitcoin with link to donation" width="35px" height="35px">
+      </a>
+      &nbsp;&nbsp;&nbsp;&nbsp; <!-- Espaço de aproximadamente 20px -->
+      <!-- Ethereum -->
+      <a href="https://etherscan.io/address/0x2C4A065F7b4ee083febC324c40283d251Ac51aE9" target="_blank" style="text-decoration: none !important;">
+          <img src="https://github.com/wallanpsantos/wallanpsantos/blob/output/ethereum-brands-solid.svg" alt="Icon Ethereum with link to donation" width="35px" height="35px">
+      </a>
+  </div>
+</div>
+
+
+
