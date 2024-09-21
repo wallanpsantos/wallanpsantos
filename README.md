@@ -3,7 +3,7 @@
 <!-- Apresentação -->
 <div align="center">
     <h1>Hi, I'm Wallan Pereira! 👋</h1>
-    <img  width="100%" height="300vh" alt="Hackathon" src="https://github.com/wallanpsantos/wallanpsantos/blob/output/pixel-hacker.gif"/>
+    <img  width="100%" height="200px" alt="Hackathon" src="https://github.com/wallanpsantos/wallanpsantos/blob/output/pixel-hacker.gif"/>
 </div>
 
 <div align="right">
@@ -84,12 +84,8 @@
 <br/> <!-- Espaço -->
 <hr/> <!-- Linha horizontal -->
 
-
+<h3 align="center">☕🐾 Donation!</h3>
 <div align="left" >
-  <h3 align="center">☕🐾 Donation!</h3>
-  
-  <br/> <!-- Espaço -->
-    
   <div align="center">
       <!-- Bitcoin -->
       <a href="https://www.blockchain.com/btc/address/bc1q6tsurlku52ct267x2vvvgf80spexl94ffw4nju" target="_blank" style="text-decoration: none !important;">
@@ -118,5 +114,5 @@
   </div>
 </div>
 
-
+<br/> <!-- Espaço -->
 
