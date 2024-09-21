@@ -3,8 +3,9 @@
 <!-- Apresentação -->
 <div align="center">
     <h1>Hi, I'm Wallan Pereira! 👋</h1>
-    <img  width="100%" height="200px" alt="Hackathon" src="https://github.com/wallanpsantos/wallanpsantos/blob/output/pixel-hacker.gif"/>
+    <img alt="Hackathon" src="https://github.com/wallanpsantos/wallanpsantos/blob/output/pixel-hacker.gif" style="width: auto; height: auto;">
 </div>
+
 
 <div align="right">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=wallanpsantos.visitor-badge&left_color=%23BF4904&right_color=%2304ADBF&left_text=Hello%20Visitors"/>
