@@ -83,10 +83,13 @@
 
 <br/> <!-- Espaço -->
 <hr/> <!-- Linha horizontal -->
-<br/> <!-- Espaço -->
+
 
 <div align="left" >
   <h3 align="center">☕🐾 Donation!</h3>
+  
+  <br/> <!-- Espaço -->
+    
   <div align="center">
       <!-- Bitcoin -->
       <a href="https://www.blockchain.com/btc/address/bc1q6tsurlku52ct267x2vvvgf80spexl94ffw4nju" target="_blank" style="text-decoration: none !important;">
