@@ -81,8 +81,12 @@
   </div>
 </div>
 
+<br/> <!-- Espaço -->
+<hr/> <!-- Linha horizontal -->
+<br/> <!-- Espaço -->
+
 <div align="left" >
-  <h3 align="center">☕📱 Donation!</h3>
+  <h3 align="center">☕🤩 Donation!</h3>
   <div align="center">
       <!-- Ethereum -->
       <a href="https://etherscan.io/address/0x2C4A065F7b4ee083febC324c40283d251Ac51aE9" target="_blank" style="text-decoration: none !important;">
