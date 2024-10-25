@@ -64,16 +64,17 @@
 
 <div align="left" >
   <h3 align="center">🌐 Let's Connect and Grow Together!</h3>
-  <p align="center">
-      <a href="https://www.linkedin.com/in/wallanpsantos/" target="_blank" style="text-decoration: none;">
-          <img src="https://github.com/wallanpsantos/wallanpsantos/blob/output/linkedin-brands-solid.svg" alt="LinkedIn" width="35px" height="35px">
-      </a>
-  </p>
-    <p align="center">
-      <a href="https://x.com/wallanpsantos" target="_blank" style="text-decoration: none;">
-          <img src="https://github.com/wallanpsantos/wallanpsantos/blob/output/x-twitter-brands-solid.svg" alt="X (Antigo Twitter)" width="35px" height="35px">
-      </a>
-  </p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/wallanpsantos/" target="_blank" style="text-decoration: none;">
+      <img src="https://github.com/wallanpsantos/wallanpsantos/blob/output/linkedin-brands-solid.svg" alt="LinkedIn" width="35px" height="35px">
+  </a>
+  &nbsp;&nbsp;&nbsp; <!-- Espaço de aproximadamente 25px -->
+  <a href="https://x.com/wallanpsantos" target="_blank" style="text-decoration: none;">
+      <img src="https://github.com/wallanpsantos/wallanpsantos/blob/output/x-twitter-brands-solid.svg" alt="X (Antigo Twitter)" width="35px" height="35px">
+  </a>
+</div>
+
 
   <h3>🧑‍💻 About Me</h3>
   <p>
