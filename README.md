@@ -66,7 +66,12 @@
   <h3 align="center">🌐 Let's Connect and Grow Together!</h3>
   <p align="center">
       <a href="https://www.linkedin.com/in/wallanpsantos/" target="_blank" style="text-decoration: none;">
-          <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn">
+          <img src="https://github.com/wallanpsantos/wallanpsantos/blob/output/linkedin-brands-solid.svg" alt="LinkedIn" width="35px" height="35px">
+      </a>
+  </p>
+    <p align="center">
+      <a href="https://x.com/wallanpsantos" target="_blank" style="text-decoration: none;">
+          <img src="https://github.com/wallanpsantos/wallanpsantos/blob/output/x-twitter-brands-solid.svg" alt="X (Antigo Twitter)" width="35px" height="35px">
       </a>
   </p>
 
