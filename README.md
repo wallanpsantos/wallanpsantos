@@ -58,7 +58,7 @@
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
     <!-- Left Column: Metrics -->
     <div style="flex: 1; max-width: 30%; min-width: 20%;">
-        <img align="right" width="25%" alt="Photo Profile" src="https://github.com/wallanpsantos/wallanpsantos/blob/output/my_photo_profile.jpeg">
+        <img align="right" width="25%" alt="Photo Profile" src="https://github.com/wallanpsantos/wallanpsantos/blob/files/my_photo_profile.jpeg">
     </div>
 
 
@@ -67,11 +67,11 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/wallanpsantos/" target="_blank" style="text-decoration: none;">
-      <img src="https://github.com/wallanpsantos/wallanpsantos/blob/output/linkedin-brands-solid.svg" alt="LinkedIn" width="35px" height="35px">
+      <img src="https://github.com/wallanpsantos/wallanpsantos/blob/files/linkedin-brands-solid.svg" alt="LinkedIn" width="35px" height="35px">
   </a>
   &nbsp;&nbsp;&nbsp; <!-- Espaço de aproximadamente 25px -->
   <a href="https://x.com/wallanpsantos" target="_blank" style="text-decoration: none;">
-      <img src="https://github.com/wallanpsantos/wallanpsantos/blob/output/x-twitter-brands-solid.svg" alt="X (Antigo Twitter)" width="35px" height="35px">
+      <img src="https://github.com/wallanpsantos/wallanpsantos/blob/files/square-x-twitter-brands-solid.svg" alt="X (Antigo Twitter)" width="35px" height="35px">
   </a>
 </div>
 
@@ -111,27 +111,27 @@
   <div align="center">
       <!-- Bitcoin -->
       <a href="https://www.blockchain.com/btc/address/bc1q6tsurlku52ct267x2vvvgf80spexl94ffw4nju" target="_blank" style="text-decoration: none !important;">
-          <img src="https://github.com/wallanpsantos/wallanpsantos/blob/output/bitcoin-color.svg" alt="Icon Bitcoin with link to donation" width="35px" height="35px">
+          <img src="https://github.com/wallanpsantos/wallanpsantos/blob/files/bitcoin-brands-solid.svg" alt="Icon Bitcoin with link to donation" width="35px" height="35px">
       </a>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Espaço de aproximadamente 25px -->
       <!-- Ethereum -->
       <a href="https://etherscan.io/address/0x07F3419A49fD2A5c3d7e81402132FF0a0B43A6FC" target="_blank" style="text-decoration: none !important;">
-          <img src="https://github.com/wallanpsantos/wallanpsantos/blob/output/ethereum-color.svg" alt="Icon Ethereum with link to donation" width="35px" height="35px">
+          <img src="https://github.com/wallanpsantos/wallanpsantos/blob/files/ethereum-brands-solid.svg" alt="Icon Ethereum with link to donation" width="35px" height="35px">
       </a>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Espaço de aproximadamente 25px -->
       <!-- Polygon -->
       <a href="https://polygonscan.com/address/0x07F3419A49fD2A5c3d7e81402132FF0a0B43A6FC" target="_blank" style="text-decoration: none !important;">
-          <img src="https://github.com/wallanpsantos/wallanpsantos/blob/output/polygon-color.svg" alt="Icon Polygon with link to donation" width="35px" height="35px">
+          <img src="https://github.com/wallanpsantos/wallanpsantos/blob/files/polygon-color.svg" alt="Icon Polygon with link to donation" width="35px" height="35px">
       </a>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Espaço de aproximadamente 25px -->
       <!-- Polkadot USDT -->
       <a href="https://polkadot.subscan.io/account/14WdKrZqhVzzs6KLEqFpVWYe8cS3RHGv7ytU8FUdEDEP9q1d" target="_blank" style="text-decoration: none !important;">
-          <img src="https://github.com/wallanpsantos/wallanpsantos/blob/output/polkadot-color.svg" alt="Icon Polkadot with link to donation" width="35px" height="35px">
+          <img src="https://github.com/wallanpsantos/wallanpsantos/blob/files/polkadot-color.svg" alt="Icon Polkadot with link to donation" width="35px" height="35px">
       </a>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Espaço de aproximadamente 25px -->
       <!-- Tether USDT -->
       <a href="https://etherscan.io/address/0x07F3419A49fD2A5c3d7e81402132FF0a0B43A6FC" target="_blank" style="text-decoration: none !important;">
-          <img src="https://github.com/wallanpsantos/wallanpsantos/blob/output/tether-color.svg" alt="Icon Tether USDT with link to donation" width="35px" height="35px">
+          <img src="https://github.com/wallanpsantos/wallanpsantos/blob/files/tether-color.svg" alt="Icon Tether USDT with link to donation" width="35px" height="35px">
       </a>
   </div>
 </div>
