@@ -118,21 +118,6 @@
       <a href="https://etherscan.io/address/0x07F3419A49fD2A5c3d7e81402132FF0a0B43A6FC" target="_blank" style="text-decoration: none !important;">
           <img src="https://github.com/wallanpsantos/wallanpsantos/blob/files/ethereum-brands-solid.svg" alt="Icon Ethereum with link to donation" width="35px" height="35px">
       </a>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Espaço de aproximadamente 25px -->
-      <!-- Polygon -->
-      <a href="https://polygonscan.com/address/0x07F3419A49fD2A5c3d7e81402132FF0a0B43A6FC" target="_blank" style="text-decoration: none !important;">
-          <img src="https://github.com/wallanpsantos/wallanpsantos/blob/files/polygon-color.svg" alt="Icon Polygon with link to donation" width="35px" height="35px">
-      </a>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Espaço de aproximadamente 25px -->
-      <!-- Polkadot USDT -->
-      <a href="https://polkadot.subscan.io/account/14WdKrZqhVzzs6KLEqFpVWYe8cS3RHGv7ytU8FUdEDEP9q1d" target="_blank" style="text-decoration: none !important;">
-          <img src="https://github.com/wallanpsantos/wallanpsantos/blob/files/polkadot-color.svg" alt="Icon Polkadot with link to donation" width="35px" height="35px">
-      </a>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Espaço de aproximadamente 25px -->
-      <!-- Tether USDT -->
-      <a href="https://etherscan.io/address/0x07F3419A49fD2A5c3d7e81402132FF0a0B43A6FC" target="_blank" style="text-decoration: none !important;">
-          <img src="https://github.com/wallanpsantos/wallanpsantos/blob/files/tether-color.svg" alt="Icon Tether USDT with link to donation" width="35px" height="35px">
-      </a>
   </div>
 </div>
 
