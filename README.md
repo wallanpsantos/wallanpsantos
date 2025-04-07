@@ -43,7 +43,7 @@
       <img height="auto" style="max-width: 100%; width: 360px;" src="https://github-readme-streak-stats.herokuapp.com/?user=wallanpsantos&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Wallan's GitHub Streak Stats"/>
   </div>
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 15px;">
-      <img height="auto" style="max-width: 100%; width: 380px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallanpsantos&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical" alt="Wallan's Top Languages"/>
+      <img height="auto" style="max-width: 100%; width: 330px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallanpsantos&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical" alt="Wallan's Top Languages"/>
   </div>
 
   </div>
