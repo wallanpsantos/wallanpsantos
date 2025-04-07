@@ -72,7 +72,6 @@
   </a>
 </div>
 
-
 <h3>🧑‍💻 About Me</h3>
   <p>
       I'm a software engineer focused on backend development using Java and Spring Boot, software architecture and microservices.
@@ -86,15 +85,11 @@
       Outside of coding, I have a passion for photography, creative design projects, agriculture and investments.
   </p>
 
-  <br/> <!-- Espaço -->
-
 <h3>🎓 Education</h3>
   <ul>
     <li><strong>Postgraduate Degree in Software Architecture</strong> - FIAP (2023 - 2024)</li>
     <li><strong>Bachelor's Degree in Computer Science</strong> - UNIP (2016 - 2019)</li>
   </ul>
-
-<br/> <!-- Espaço -->
 
 <h3>✨ Fun Facts</h3>
   <ul>
