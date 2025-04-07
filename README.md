@@ -2,7 +2,7 @@
 
 <!-- Apresentação -->
 <div align="center">
-    <h1>Hi, I'm Wallan Pereira! 👋</h1>
+    <h1>Hi, I'm Wallan! 👋</h1>
     <img alt="Hackathon" src="https://github.com/wallanpsantos/wallanpsantos/blob/output/pixel-hacker.gif" style="width: auto; height: auto;">
 </div>
 
