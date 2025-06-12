@@ -106,6 +106,16 @@
 <br/> <!-- Espaço -->
 <hr/> <!-- Linha horizontal -->
 
+<h3 align="center">I'm reviewing to consolidate my knowledge. 🧩</h3>
+
+<div align="center" >
+    
+[![roadmap.sh](https://roadmap.sh/card/tall/684a3aeee00cd4945b79d55e?variant=dark&roadmaps=software-architect%2Cjava%2Cbackend%2Csoftware-design-architecture)](https://roadmap.sh)
+
+</div>
+
+<hr/> <!-- Linha horizontal -->
+
 <h3 align="center">☕🐾 Donate!</h3>
 <div align="left" >
   <div align="center">
@@ -120,6 +130,4 @@
       </a>
   </div>
 </div>
-
-<br/> <!-- Espaço -->
 
