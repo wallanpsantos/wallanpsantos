@@ -3,7 +3,7 @@
 <!-- Apresentação -->
 <div align="center">
     <h1>Hi, I'm Wallan! 👋</h1>
-    <img alt="Hackathon" src="https://github.com/wallanpsantos/wallanpsantos/blob/output/bea_coding.gif" style="width: auto; height: auto;">
+    <img alt="Hackathon" src="https://github.com/wallanpsantos/wallanpsantos/blob/output/bea_coding.gif" style="width: 400px; height: auto;">
 </div>
 
 
