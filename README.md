@@ -3,6 +3,7 @@
 <!-- Apresentação -->
 <div align="center">
     <h1>Hi, I'm Wallan! 👋</h1>
+<li>🎭 <strong>Irony:</strong> Software engineering is the only field where you can build systems used by millions… and still get rejected for forgetting the time complexity of quicksort.</li>
       <img style="width: 150px; height: auto;" alt="Photo Profile" src="https://github.com/user-attachments/assets/59a4ff14-2ffa-4d57-b5b4-67bfe687cd94">
 </div>
 
