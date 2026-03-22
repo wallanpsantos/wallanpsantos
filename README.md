@@ -7,12 +7,12 @@
  
 <table border="0" width="100%">
   <tr>
-    <td valign="middle" width="75%">
-      <em>🎭 Software engineering is the only field where you can build systems used by millions… and still get rejected for forgetting the time complexity of quicksort.</em>
-    </td>
     <td valign="middle" align="center" width="25%">
       <img width="160px" alt="Profile gif" src="https://github.com/user-attachments/assets/59a4ff14-2ffa-4d57-b5b4-67bfe687cd94"/>
     </td>
+    <td valign="middle" width="75%">
+      <em>🎭 Software engineering is the only field where you can build systems used by millions… and still get rejected for forgetting the time complexity of quicksort.</em>
+    </td>    
   </tr>
 </table>
 
